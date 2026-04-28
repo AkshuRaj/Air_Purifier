@@ -107,7 +107,7 @@ Power Query transformations:
 ## Files
 
 - air_purifier.pbix (main file)
-- air_purifier.pdf (requirements)
+- air_purifier.pdf (final dashbaord insights)
 - Input datasets (4 Excel files)
 
 ## How to Use
